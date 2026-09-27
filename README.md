@@ -1,2 +1,21 @@
-# esg-report-builder
-ESG Report Builder — CSRD, GRI and SASB-aligned ESG disclosures generated from your data. Part of the Zion App Network Batch 62 (Sustainability &amp; ESG AI).
+# ESG Report Builder 🌱
+
+**CSRD, GRI and SASB-aligned ESG disclosures generated from your data — with evidence links and audit-ready exports.**
+
+Part of the **Zion App Network — Batch 62 (Sustainability & ESG AI)**: 820+ interconnected AI apps by [Zion Tech Group](https://ziontechgroup.com).
+
+## Features
+- Framework mapping: CSRD/ESRS, GRI, SASB, TCFD crosswalks
+- Auto-drafted disclosure narratives from your metrics
+- Evidence locker linked to every reported figure
+- XBRL-ready and board-ready exports
+- Double-materiality assessment workflow
+
+## Live & Links
+- App page: https://ziontechgroup.com/esg-report-builder/
+- App Network hub: https://github.com/Zion-support/zion-app-network
+- Batch 62 showcase: https://ziontechgroup.com/zion-app-network/app-network-batch62-sept27.html
+- Interlinks: [ZION_APP_NETWORK.md](ZION_APP_NETWORK.md)
+- Start with a $99 AI Discovery: https://ziontechgroup.com/discovery/
+
+© 2026 Zion Tech Group
