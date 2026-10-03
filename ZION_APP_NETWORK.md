@@ -1,23 +1,32 @@
 # Zion App Network — Interlinks
 
-**esg-report-builder** is part of the [Zion AI App Network](https://github.com/Zion-support/zion-app-network) — 822+ interlinked AI apps by [Zion Tech Group](https://ziontechgroup.com/).
+This app is part of the **Zion App Network** by Zion Tech Group: 820+ interconnected AI micro-apps.
 
-## Core links
+## Hub
+- Network hub repo: https://github.com/Zion-support/zion-app-network
+- Network index: https://ziontechgroup.com/zion-app-network/
+- Full catalog: https://github.com/Zion-support/zion-app-network/blob/main/CATALOG.md
+- Network hub (Pages): https://zion-support.github.io/zion-network/ · https://network.ziontechgroup.com
+
+## Batch 62 — Sustainability & ESG AI (siblings)
+- [Carbon Accounting Hub](https://ziontechgroup.com/carbon-accounting-hub/) — Scope 1/2/3 emissions
+- [ESG Report Builder](https://ziontechgroup.com/esg-report-builder/) — CSRD/GRI/SASB disclosures
+- [ESG Data Collector](https://ziontechgroup.com/esg-data-collector/) — automated ESG data ingestion
+- [Climate Risk Assessor](https://ziontechgroup.com/climate-risk-assessor/) — physical & transition risk
+- [Circular Economy Tracker](https://ziontechgroup.com/circular-economy-tracker/) — circularity metrics
+- [Green Procurement Copilot](https://ziontechgroup.com/green-procurement-copilot/) — sustainable sourcing
+- [Renewable ROI Calculator](https://ziontechgroup.com/renewable-roi-calculator/) — solar/wind payback modeling
+- [Water Usage Optimizer](https://ziontechgroup.com/water-usage-optimizer/) — water efficiency & reuse
+
+## Batch 61 — Hospitality & Travel AI (previous batch)
+- [Travel Risk Monitor](https://ziontechgroup.com/travel-risk-monitor/)
+- [Restaurant Waste Reducer](https://ziontechgroup.com/restaurant-waste-reducer/)
+- [Hotel Revenue Pilot](https://ziontechgroup.com/hotel-revenue-pilot/)
+- [Guest Experience AI](https://ziontechgroup.com/guest-experience-ai/)
+- [Itinerary Builder AI](https://ziontechgroup.com/itinerary-builder-ai/)
+- [Event Demand Forecaster](https://ziontechgroup.com/event-demand-forecaster/)
+
+## Company
 - Homepage: https://ziontechgroup.com/
-- Plans & pricing: https://ziontechgroup.com/en/plans/
-- Discovery call: https://ziontechgroup.com/discovery/
-- All tools: https://ziontechgroup.com/tools/
-- Hub page: https://ziontechgroup.com/zion-app-network/
-- Live page: https://ziontechgroup.com/esg-report-builder/
-
-## Batch 71 — Energy & Sustainability AI
-- [energy-consumption-forecaster](https://github.com/Zion-support/energy-consumption-forecaster) — https://ziontechgroup.com/energy-consumption-forecaster/
-- [carbon-footprint-tracker](https://github.com/Zion-support/carbon-footprint-tracker) — https://ziontechgroup.com/carbon-footprint-tracker/
-- [solar-roi-optimizer](https://github.com/Zion-support/solar-roi-optimizer) — https://ziontechgroup.com/solar-roi-optimizer/
-- [grid-demand-balancer](https://github.com/Zion-support/grid-demand-balancer) — https://ziontechgroup.com/grid-demand-balancer/
-- [esg-report-builder](https://github.com/Zion-support/esg-report-builder) — https://ziontechgroup.com/esg-report-builder/
-- [building-efficiency-auditor](https://github.com/Zion-support/building-efficiency-auditor) — https://ziontechgroup.com/building-efficiency-auditor/
-
-Previous batch: [Batch 70 — AI Platform & Engineering Suite](https://github.com/Zion-support/zion-app-network/blob/main/SPOTLIGHT-2026-10-01-BATCH70.md)
-
-© 2026 Zion Tech Group
+- Plans: https://ziontechgroup.com/en/plans/
+- Discovery: https://ziontechgroup.com/discovery/
