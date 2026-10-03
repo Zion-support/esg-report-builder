@@ -19,3 +19,6 @@ Part of the **Zion App Network — Batch 62 (Sustainability & ESG AI)**: 820+ in
 - Start with a $99 AI Discovery: https://ziontechgroup.com/discovery/
 
 © 2026 Zion Tech Group
+
+## Part of the Zion App Network
+🌱 Suite: [Sustainability & ESG AI Suite](https://github.com/Zion-support/zion-network/blob/main/spotlights/sustainability-esg-suite.md) · 🌐 [Network Index](https://github.com/Zion-support/zion-network/blob/main/APPS_NETWORK.md) · 📣 [Homepage Spotlight](https://zion-support.github.io/APP_NETWORK_SPOTLIGHT_OCT3_ESG.html) · [Status](https://zion-support.github.io/zion-status/) · [Plans](https://zion-support.github.io/zion-plans/) · [Portal](https://zion-support.github.io/zion-portal/)
